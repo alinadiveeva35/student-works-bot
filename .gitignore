@@ -1,0 +1,10 @@
+# Файлы Java
+*.class
+*.jar
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
